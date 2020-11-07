@@ -1,3 +1,6 @@
+## Fork of the original work
+This is just a fork of the original work (https://github.com/david-m-rosen/SE-Sync) that allows to output optimized pose-graph as g2o file. Below information written by the original author. 
+
 [![Build Status](https://travis-ci.org/david-m-rosen/SE-Sync.svg?branch=master)](https://travis-ci.org/david-m-rosen/SE-Sync)
 
 # SE-Sync
